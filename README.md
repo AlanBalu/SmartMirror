@@ -5,7 +5,7 @@ Completely designed from scratch
 Powered by an Android tablet mounted behind a one-way mirror
 
 Mirror:
--acrylic pane covered in a one-way mirror film
+-\n acrylic pane covered in a one-way mirror film
 
 Android Tablet:
 -Widgets for clock, news and weather on the Launcher screen are continuously shown
